@@ -1,16 +1,26 @@
-## Hi there 👋
+# hey, i'm zoe 👋
 
-<!--
-**flightlessbirdsdev/flightlessbirdsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+developer interested in software, backend systems, and game development.
 
-Here are some ideas to get you started:
+currently proficient and working with:
+- java
+- c#
+- sql
+- web development
+- git/github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## current focus
+- improving programming fundamentals
+- building personal projects
+- learning plugin and server development
+
+## tools & technologies
+- IntelliJ IDEA
+- Visual Studio Code
+- MySQL
+- GitHub
+
+## goals
+- become a stronger software developer
+- contribute to larger technical projects
+- continue building real-world experience
