@@ -6,6 +6,11 @@ currently proficient and working with:
 - java
 - c#
 - sql
+- javascript
+- typescript
+- c++
+- html
+- css
 - web development
 - git/github
 
